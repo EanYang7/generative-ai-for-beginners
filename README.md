@@ -1,7 +1,7 @@
 
-![Generative AI For Beginners](./images/repository-thumbnail.png?WT.mc_id=academic-105485-koreyst)
+![Generative AI For Beginners](../../images/repository-thumbnail.png?WT.mc_id=academic-105485-koreyst)
 
-### A 12 Lesson course teaching everything you need to know to start building Generative AI applications 
+### 通过 12 章的课程，开启构建生成式 AI 应用程序之路
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Generative-AI-For-Beginners.svg)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -17,81 +17,61 @@
 [![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst)
 
 
-# Generative AI for Beginners - A Course 
+# 面向初学者的生成式人工智能课程
 
-Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, you will be building your own Generative AI startup so you can get an understanding of what it takes to launch your ideas. 
+通过微软云技术布道师团队提供的十二章系列课程，了解构建生成式 AI 应用程序的基础知识。 每章都涵盖了生成式人工智能原理和应用程序开发的一个关键方面。 在整个系列课程中，我们将建立我们自己的生成式人工智能初创公司，以便您可以了解如何实现您的想法。
 
-### 🌟 Special thanks 
-To our Microsoft Student Ambassadors and community authors, reviewers, and content contributors including: 
+## 🌱 如何开始
 
-[**John Aziz**](https://www.linkedin.com/in/john0isaac/) - For creating all of the GitHub Actions and workflows 
+首先，将 [整个repo fork ](https://github.com/microsoft/generative-ai-for-beginners/fork?WT.mc_id=academic-105485-koreyst) 到您自己的 GitHub 帐户，以便能够更改任何代码并完成相关学习。 您还可以[(🌟)该 Fork](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst)以便稍后更容易地找到它！
 
+前往[课程学习环境设置](../../00-course-setup/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) 找到最适合您的设置指南！
 
+## 🗣️ 找到志同道合的人和获取支持
 
-## 🌱 Getting Started
+我们相信最好的学习方式之一就是与他人一起学习！ 加入我们的[官方 AI Discord server](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst)，与参加本课程的其他学习者会面和交流并获得支持。 您可能会在那里找到一位联合创始人！
 
-To get started, [fork this entire repo](https://github.com/microsoft/generative-ai-for-beginners/fork?WT.mc_id=academic-105485-koreyst) to your own GitHub account to be able to change any code and complete the challenges. You can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) to find it easier later.
+### 🚀  您是否来自一家初创公司还是有一个创业的想法？
 
-Below are the links to each lesson. Feel free to explore and start at any lesson that interests you the most! 
+访问 [Microsoft's Founders Hub](https://aka.ms/genai-Foundershub?WT.mc_id=academic-105485-koreyst)，您可以在这里申请获得**免费 OpenAI credits**以及可高达价值 **15 万美元的 Azure  AI 服务**。
 
-Head to the [Course Setup Page](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst) to find the setup guide that works best for you. 
+## 📂 每章都包含
 
-## 🗣️ Meet Other Learners, Get Support 
+- 每章导学视频
+- 书面课程位于自述文件中
+- 对于基于项目的课程，带有代码示例的 Juypter Notebook
+- 应用所学知识的知识拓展和知识检查
+- 进阶学习资源链接
 
-One of the best ways to learn is learning with others! Join our [official AI Discord server](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst) to meet and network with other learners taking this course and get support. Who knows? You might find your next co-founder there! 
+## 🗃️ 每章内容
 
-## 🧠 Want to learn more? 
-After completing this course, check out our [Generative AI Learning collection](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) to continue levelling up your Generative AI knowledge! 
-
-##  🚀  Are you a startup or got an idea you want to launch? 
-
-Sign up for [Microsoft for Startups Founders Hub](https://aka.ms/genai-foundershub?WT.mc_id=academic-105485-koreyst) to receive **free OpenAI credits** and up to **$150k towards Azure credits to access OpenAI models through Azure OpenAI Services**. 
-
-##  🙏 Want to help?
-
-Here are ways you can contribute to this course: 
-- Find spelling errors or code errors, [Raise an issue](https://github.com/microsoft/generative-ai-for-beginners/issues?WT.mc_id=academic-105485-koreyst) or [Create a pull request](https://github.com/microsoft/generative-ai-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
-- Send us your ideas, maybe your ideas for new lessons or exercises, and let us know how we can improve.
-
-
-## 📂 Each lesson includes:
-
-- a short video introduction to the topic
-- a written lesson located in the README 
-- a Jupyter Notebook with code examples (for project-based lessons) 
-- a challenge or assignment to apply your learning 
-- links to extra resources to continue your learning
-
-## 🗃️ Lessons
-|       |              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |                             
+|       |              课程链接             |                       相关教学内容                     |                     学习目标                 |                             
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| 00 | [Course Introduction - How to Take This Course](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 01 | [Introduction to Generative AI and LLMs](./01-introduction-to-genai/README.md?WT.mc_id=academic-105485-koreyst) | **Concept**: Generative AI and the current technology landscape|  Understanding what Generative AI is and how Large Language Models (LLMs) work.                    |
-| 02 | [Exploring and comparing different LLMs](./02-exploring-and-comparing-different-llms/README.md?WT.mc_id=academic-105485-koreyst) | **Concept**: Testing, iterating, and comparing different Large Language Models | Select the right model for your use case | 
-| 03 | [Using Generative AI Responsibly](./03-using-generative-ai-responsibly/README.md?WT.mc_id=academic-105485-koreyst)| **Concept:** Understanding the limitations of foundation models and the risks behind AI | Learn how to build Generative AI Applications responsibly 
-| 04 | [Understanding Prompt Engineering Fundamentals](./04-prompt-engineering-fundamentals/README.md?WT.mc_id=academic-105485-koreyst) | **Code/Concept:** Hands-on application of Prompt Engineering Best Practices  |  Understand prompt structure & usage|  
-| 05 | [Creating Advanced Prompts](./05-advanced-prompts/README.md?WT.mc_id=academic-105485-koreyst) | **Code/Concept:** Extend your knowledge of prompt engineering by applying different techniques to your prompts | Apply prompt engineering techniques that improve the outcome of your prompts.| 
-| 06 | [Building Text Generation Applications](./06-text-generation-apps/README.md?WT.mc_id=academic-105485-koreyst)  | **Code:** Build a text generation app using Azure OpenAI  | Understand how to efficiently use tokens and temperature to vary the model's output | |
-| 07 | [Building Chat Applications](./07-building-chat-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Code**: Techniques for efficiently building and integrating chat applications.| Identify key metrics and considerations to effectively monitor and maintain the quality of AI-powered chat applications| 
-| 08 | [Building Search Apps Vector Databases](./08-building-search-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Code**: Semantic vs Keyword search.  Learn about text embeddings and how they apply to search  | Create an application that uses Embeddings to search for data. | 
-| 09 | [Building Image Generation Applications](./09-building-image-applications/README.md?WT.mc_id=academic-105485-koreyst)  | **Code:** Image generation and why it's useful in building applications| Build an image generation application | 
-| 10 | [Building Low Code AI Applications](./10-building-low-code-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)  | **Low Code:** Introduction to Generative AI in Power Platform | Build a Student Assignment Tracker App for our education startup with Low Code | |
-| 11 | [Integrating External Applications with Function Calling](./11-integrating-with-function-calling/README.md?WT.mc_id=academic-105485-koreyst)  | **Code:** What is function calling and its use cases for applications  | Setup a function call to retrieve data from an external API | |
-| 12 | [Designing UX for AI Applications](./12-designing-ux-for-ai-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Concept:** Designing AI Applications for Trust and Transparency | Apply UX design principles when developing Generative AI Applications | |
-| xx | [Continue Your Learning](./13-continued-learning/README.md?WT.mc_id=academic-105485-koreyst)  | Links to continue your learning from each lesson! | Mastering your Generative AI skills | |
-
-
-
+| 00 | [课程介绍和学习环境设置](../../00-course-setup/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | 学习环境配置和课程结构 | 在学习本课程的同时帮助您取得成功 | 
+| 01 | [生成式人工智能和 LLMs 介绍](../../01-introduction-to-genai/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **知识点**: 生成式人工智能以及我们如何适应当前的技术格局 | 了解什么是生成式人工智能 以及 LLMs 的工作原理。                 |
+| 02 | [探索和比较不同的 LLMs](../../02-exploring-and-comparing-different-llms/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **知识点**: 测试、迭代和比较不同的 LLMs 模型 | 为您的应用场景选择正确的模型 |
+| 03 | [负责任地使用生成式人工智能](../../03-using-generative-ai-responsibly/translations/cn/README.md?WT.mc_id=academic-105485-koreyst)| **知识点:** 了解基础模型的局限性和人工智能背后的风险 | 了解如何负责任地构建生成式人工智能应用程序
+| 04 | [提示工程基础](../../04-prompt-engineering-fundamentals/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **代码/知识点:** 提示工程最佳实践| 了解提示结构和用法|
+| 05 | [创建高级的提示工程技巧](../../05-advanced-prompts/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **代码/知识点:** 通过在提示中应用不同的技术来扩展您的提示工程知识 | 应用提示工程技术来改善提示结果。|
+| 06 | [创建文本生成应用](../../06-text-generation-apps/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **代码:** 使用 Azure OpenAI 构建文本生成应用程序 | 了解如何有效地使用令牌和温度来改变模型的输出 | |
+| 07 | [创建聊天应用](../../07-building-chat-applications/translations/cn/README.md?WT.mc_id=academic-105485-koreyst)| **代码**: 有效构建和集成聊天应用程序的技术。 | 确定关键指标和注意事项，以有效监控和维护人工智能聊天应用程序的质量|
+| 08 | [创建搜索应用](../../08-building-search-applications/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **代码**: 语义搜索与关键字搜索。 什么是文本嵌入以及它们如何应用于搜索 | 创建一个使用嵌入来搜索数据的应用程序。 |
+| 09 | [创建图像生成应用](../../09-building-image-applications/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **代码:** 图像生成及其在构建应用程序中的作用| 构建图像生成应用程序 |
+| 10 | [创建低代码的人工智能应用](../../10-building-low-code-ai-applications/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **低代码:** Power Platform 中的生成式 AI 简介 | 使用低代码为我们的教育初创公司构建学生作业跟踪应用程序 | |
+| 11 | [为生成式 AI 添加 function calling](../../11-integrating-with-function-calling/translations/cn/README.md?WT.mc_id=academic-105485-koreyst)  | **代码:** 什么是 Function Calling 及其在应用程序中的使用示例  | 设置 Function Calling 以从外部 API 检索数据 | |
+| 12 | [为人工智能应用程序添加用户体验](../../12-designing-ux-for-ai-applications/translations/cn/README.md?WT.mc_id=academic-105485-koreyst) | **知识点:** 设计人工智能应用程序以实现信任和透明度 | 开发生成式人工智能应用时用户体验设计的相关原则 | |
+| xx | [拓展学习](../../13-continued-learning/translations/cn/README.md?WT.mc_id=academic-105485-koreyst?WT.mc_id=academic-105485-koreyst)  | 包含每章内容的的拓展链接！ | 掌握生成式人工智能相关技能 | |
  
   
-## 🎒  Other Courses 
+## 🎒  更多系列课程
 
-Our team produces other courses! Check out:
+我们团队还有更多基础基础的系列课程，请点击学习
 
-- [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
-- [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
-- [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
-- [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
-- [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
-- [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+- [机器学习入门系列](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+- [数据科学入门系列](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+- [人工智能入门系列](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+
+- [网页编程入门系列](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+- [物联网入门系列](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+
+- [虚拟现实入门系列](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
